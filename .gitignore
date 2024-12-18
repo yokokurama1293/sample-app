@@ -23,3 +23,43 @@ go.work.sum
 
 # env file
 .env
+
+# Shell History
+.bash_history
+.zsh_history
+.fish_history
+
+# Shell Configs
+.bashrc
+.zshrc
+.bash_profile
+.profile
+
+# Temporary Files
+*.tmp
+*.bak
+*~
+
+# Logs
+*.log
+
+# Environment and Credentials
+.env
+.env.local
+.aws/credentials
+.docker/config.json
+
+# Compiled or Binary Files
+*.o
+*.so
+*.dll
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log
